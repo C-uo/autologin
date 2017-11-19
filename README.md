@@ -1,6 +1,6 @@
 # Autologin for Ritsumeikan-WIFI
 
-将字典中的\'username'和\'password'改成自己的RAINBOW的帐号与密码并运行
+在终端中进入autologin.py所在文件夹,并输入./autologin.py
 
 ## 11月15日 
 	创建monitoring分支,检查网络状态,并在需要时再次登录
